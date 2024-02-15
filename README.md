@@ -1,9 +1,9 @@
 # WebsiteToApp
 
-**Welcome**
+**Welcome** \
 Thanks for chosing my project here. It is an easy to use tool to make your favourite Website into an App \
 ___
-**Setup**
+**Setup** \
 -Download one of the releases \
 -Execute the setup.exe file \
 -Fill in the name and url of the Website \
@@ -13,6 +13,6 @@ ___
 -Make a shortcut to the browser.exe file in the browser directory \
 --> Tutorial if you dont know how to: https://www.digitalcitizen.life/how-create-shortcuts/ \
 ___
-**Updates**
+**Updates** \
 Im going to try to extend the project as much as i can \
 Current version v1.0 is just what i made in 1 day 
